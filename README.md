@@ -19,3 +19,6 @@ in the step-by-step example, the two groups of points are represented one in red
 ![WhatsApp_Image_2023-10-21_at_14 11 59_dec6927f](https://github.com/user-attachments/assets/b67a6757-4037-431c-839a-d9a54ea3d865)
 
 ![image](https://github.com/user-attachments/assets/72086b88-dc67-406f-9879-52c6cf36d3a8)
+
+
+I could simply save all the possible combinations of a 3x3 grid And hardcode them in and then simply choose a random combination each time, it should be the fastest thing possible since you don't need to make a single check, and I could remove all the combinations that include loops.
